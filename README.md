@@ -1,7 +1,9 @@
 # 📊 Databel Customer Churn Business Intelligence Report
 # Dashboard
 <img width="893" height="505" alt="DATABEL 3" src="https://github.com/user-attachments/assets/734d4933-ced3-4de3-b13f-bdac80c44c9d" />
+
 <img width="888" height="494" alt="databel 2" src="https://github.com/user-attachments/assets/09f4d3ad-cc53-4302-861f-54f102be773d" />
+
 <img width="887" height="499" alt="databel 1" src="https://github.com/user-attachments/assets/ab3411b4-019c-4610-8084-d715e0fd34b8" />
 
 ## 📋 Executive Summary
